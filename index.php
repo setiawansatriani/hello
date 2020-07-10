@@ -1,5 +1,5 @@
 <?php
 
-echo "hello github heroku";
+echo "hello github herokus";
 
 ?>
